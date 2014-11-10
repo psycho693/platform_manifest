@@ -2,8 +2,8 @@
 <manifest>
 
   <remote  name="github"
-	   fetch="https://github.com/FrankenBunny"/>
-  <default revision="master"
+	   fetch="https://github.com/FrankenBunny"
+           revision="master"
            sync-j="4" />
   
   <remote  name="aosp"
