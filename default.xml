@@ -510,6 +510,6 @@
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
-  <project path="vendor" name="proprietary_vendor" remote="github" revision="master"/>
+  <project path="vendor" name="proprietary_vendor" remote="github" revision="lp1.0"/>
 
 </manifest>
